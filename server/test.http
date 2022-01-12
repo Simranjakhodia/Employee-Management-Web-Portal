@@ -1,0 +1,13 @@
+
+POST http://localhost:4000/employee/add
+Content-Type: application/json
+
+{
+    
+    "name" : "jenny dow",
+    "salary" : "50000",
+    "address" : "Malaysia",
+    "team" : "Dev",
+    "gender" : "FeMale"
+
+}
