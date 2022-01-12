@@ -1,0 +1,18 @@
+input, label {
+    display :table-cell;
+    flex-direction: column;
+    margin-block-end: 20px;
+    padding: "10px";
+    text-align: center;
+   
+}
+
+input[type=text] {
+    border: 2px solid green;
+    border-radius: 4px;
+    background-color: #3CBC8D;
+    color: white; 
+    width: 100%;
+    box-sizing: border-box;
+}
+
